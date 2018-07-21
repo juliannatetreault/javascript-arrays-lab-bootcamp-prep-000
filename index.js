@@ -5,4 +5,6 @@ var kittens = [
   "Garfield"
   ];
   
-  
+  function destructivelyAppendKitten (name) {
+    
+  }
