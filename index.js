@@ -13,4 +13,6 @@ var kittens = [
     kittens.unshift("Bob")
   }
   
-  
+  function destructivelyRemoveLastKitten () {
+    
+  }
