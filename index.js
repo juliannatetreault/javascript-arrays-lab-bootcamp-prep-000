@@ -22,5 +22,5 @@ var kittens = [
   }
   
   function appendKitten (name) {
-    kittens.splice("Broom")
+    kittens.splice(1, 2, 3, "Broom")
   }
