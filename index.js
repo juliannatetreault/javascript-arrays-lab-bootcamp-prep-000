@@ -29,4 +29,6 @@ var kittens = [
     return [name, ...kittens]
   }
   
-  
+  function removeLastKitten () {
+    return kittens.
+  }
