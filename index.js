@@ -34,5 +34,5 @@ var kittens = [
   }
   
   function removeFirstKitten () {
-    return 
+    return kittens.
   }
