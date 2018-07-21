@@ -14,5 +14,5 @@ var kittens = [
   }
   
   function destructivelyRemoveLastKitten () {
-    
+    kittens.pop()
   }
