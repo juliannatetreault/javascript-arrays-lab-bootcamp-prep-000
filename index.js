@@ -22,6 +22,6 @@ var kittens = [
   }
   
   function appendKitten (name) {
-    
+    kittens.splice()
     return array 
   }
